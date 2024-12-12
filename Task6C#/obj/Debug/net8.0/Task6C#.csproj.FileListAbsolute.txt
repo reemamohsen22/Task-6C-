@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Task6C#\Task6C#\obj\Debug\net8.0\Task6C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Task6C#\Task6C#\obj\Debug\net8.0\Task6C#.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Task6C#\Task6C#\obj\Debug\net8.0\Task6C#.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Task6C#\Task6C#\obj\Debug\net8.0\Task6C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Task6C#\Task6C#\bin\Debug\net8.0\Task6C#.exe
+C:\Users\Dell\source\repos\Task6C#\Task6C#\bin\Debug\net8.0\Task6C#.deps.json
+C:\Users\Dell\source\repos\Task6C#\Task6C#\bin\Debug\net8.0\Task6C#.runtimeconfig.json
+C:\Users\Dell\source\repos\Task6C#\Task6C#\bin\Debug\net8.0\Task6C#.dll
+C:\Users\Dell\source\repos\Task6C#\Task6C#\bin\Debug\net8.0\Task6C#.pdb
+C:\Users\Dell\source\repos\Task6C#\Task6C#\obj\Debug\net8.0\Task6C#.dll
+C:\Users\Dell\source\repos\Task6C#\Task6C#\obj\Debug\net8.0\refint\Task6C#.dll
+C:\Users\Dell\source\repos\Task6C#\Task6C#\obj\Debug\net8.0\Task6C#.pdb
+C:\Users\Dell\source\repos\Task6C#\Task6C#\obj\Debug\net8.0\Task6C#.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Task6C#\Task6C#\obj\Debug\net8.0\ref\Task6C#.dll
